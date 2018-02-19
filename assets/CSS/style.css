@@ -1,0 +1,77 @@
+body {
+	background-image: url("../images/candyhole.png");
+	background-color: #D9F0B8;
+	color: #250010;
+}
+
+nav {
+	margin: 10px 0px;
+	background-color: #250010;
+	color: #D9F0B8;
+}
+
+nav img {
+	height: 60px;
+}
+
+#links .link {
+	background-color: #5B2369;
+	color: #D9F0B8;
+	border-color: #250010;
+	border-style: solid;
+	border-width: 5\2px;
+}
+
+footer {
+	background-color: #250010;
+	color: #D9F0B8;
+	height: 30px;
+}
+
+.jumbotron {
+	background-image: url("../images/dark-wall.png");
+	background-color: #67912D;
+}
+
+.card {
+	width: 20rem;
+	margin: 10px 0px;
+	background-color: #67912D;
+}
+
+.card-img-top {
+	width: 100%;
+	height: 200px;
+  	position: relative;
+  	display: inline-block;
+  	overflow: hidden;
+  	margin: 0;
+}
+
+button {
+	float: right;
+	position: absolute;
+	bottom: 0px;
+	margin: auto;
+}
+
+.btn {
+	background-color: #5B2369;
+	color: #D9F0B8;
+	border-color: #250010;
+	border-style: solid;
+	border-width: 5\2px;	
+}
+
+#photo {
+	max-height: 500px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #250010;
+	background-color: #9F4031;
+}
+
+#foot {
+	padding: 10px;
+	margin: 10px;
+}
