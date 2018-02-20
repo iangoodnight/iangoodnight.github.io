@@ -35,6 +35,7 @@ footer {
 
 .card {
 	width: 20rem;
+	height: 35rem;
 	margin: 10px 0px;
 	background-color: #67912D;
 }
@@ -69,6 +70,7 @@ button {
 	border-style: solid;
 	border-color: #250010;
 	background-color: #9F4031;
+	width: 100%;
 }
 
 #foot {
