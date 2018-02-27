@@ -19,7 +19,8 @@ nav img {
 	color: #D9F0B8;
 	border-color: #250010;
 	border-style: solid;
-	border-width: 5\2px;
+	border-width: 1px;
+	margin: 20px;
 }
 
 footer {
@@ -49,11 +50,31 @@ footer {
   	margin: 0;
 }
 
-button {
-	float: right;
-	position: absolute;
-	bottom: 0px;
-	margin: auto;
+.contact-icon button {
+	width: 300px;
+	margin: 10px;
+	color: #250010;
+	background-color: #D9F0B8;
+	border-color: #250010;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	box-shadow: 2px 4px;
+	background-image: url("../images/candyhole.png");
+}
+
+.contact-icon button a {
+	text-decoration: none;
+}
+
+.contact-icon img {
+	max-height: 100px;
+	margin: 10px;
+	background-color: #D9F0B8;
+	border-color: #250010;
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 1px 2px;
 }
 
 .btn {
@@ -62,6 +83,10 @@ button {
 	border-color: #250010;
 	border-style: solid;
 	border-width: 5\2px;	
+}
+
+.main {
+	background-color: #67912D;
 }
 
 #photo {
